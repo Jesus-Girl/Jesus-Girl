@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jesus-Girl
 - 👀 I’m interested in learning tech
-- 🌱 I’m currently interested in learning Data Science and Machine Language
+- 🌱 I’m currently interested in learning Data Science and Machine Language and AI
 - 💞️ I’m looking to collaborate soon ...
 - 📫 How to reach me ...via my email address 
 
